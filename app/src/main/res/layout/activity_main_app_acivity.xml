@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnTimPhongTro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:width="100dp"
+        android:height="100dp"
+        android:text="Tìm phòng trọ" />
+
+    <Button
+        android:id="@+id/btnTraCuuBHXH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:width="100dp"
+        android:height="100dp"
+        android:text="Tra cứu BHXH" />
+
+    <Button
+        android:id="@+id/btnTuVanPhapLuat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:width="100dp"
+        android:height="100dp"
+        android:text="Tư vấn pháp luật" />
+
+</LinearLayout>
